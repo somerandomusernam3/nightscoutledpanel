@@ -1,1 +1,2 @@
 # nightscoutledpanel
+Check the wiki
